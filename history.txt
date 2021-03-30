@@ -1,0 +1,93 @@
+    1  pwd
+    2  ls
+    3  cd
+    4  .cd.
+    5  mv
+    6  ctrl+l
+    7  cdc.
+    8  mkdir myfolder
+    9  cd us
+   10  pwd
+   11  esc
+   12  :wq
+   13  mkdir apssdc
+   14  touch profile.txt
+   15  clear
+   16  cd apssdc
+   17  touch profile.txt
+   18  ls
+   19  vi profile.txt
+   20  cat profile.txt
+   21  touch sample.html
+   22  vi sample.html
+   23  git init
+   24  git clone 'https://github.com/Vyshnavi565/gist.gist.git'
+   25  ls
+   26  cd gi
+   27  cd gist.gist/
+   28  ls README.md
+   29  ls
+   30  vi RE
+   31  vi README.md
+   32  git config --global use.name 'vyshnavi'
+   33  git config --global user.name 'vyshnavi'
+   34  git cinfig --global user.email 'vyshuchaasani2905@gmail.com'
+   35  git config --global user.email 'vyshuchalasani2905@gmail.com'
+   36  desktop/vyshu/gist.gist/.git/
+   37  git push origin main
+   38  $ git config --global user.name 'vyshnav'i
+   39  $ vi RE
+   40  dell@DESKTOP-HMSPP3A MINGW64 ~/Desktop/vyshu
+   41  git config --global user.name 'vyshnavi'
+   42  git config --global user.email 'vyshuchalasani2905@gmail.com'
+   43  git ststus -s
+   44  git status -s
+   45  touch example.py
+   46  git add.
+   47  git add .
+   48  git status -s
+   49  git commit -m 'write markdown statements'
+   50  git log
+   51  git remote add origin 'http://github.com/vyshu/gist.gist.git'
+   52  git push origin master
+   53  git push origin main
+   54  pwd
+   55  ls
+   56  rmdir GIST
+   57  ls
+   58  rm demo.txt
+   59  ls
+   60  rm file {1..10}.txt
+   61  rm file{1..10}.txt
+   62  ls
+   63  rm file{50..100}.txt
+   64  ls
+   65  rm clanguage{50..100}.cpp
+   66   ls
+   67  rm *.txt
+   68  ls
+   69  rm *.py
+   70  ls
+   71  nano myfile.txt
+   72  cat myflie.txt
+   73  cat myfile.txt
+   74  \nano myfile.txt
+   75  cat myfile.txt
+   76  echo "Hello" >>my file2.txt
+   77  cat myfile2.txt
+   78  cat my file2.txt
+   79  echo "hello" >>myfile2.txt
+   80  cat myfile2.txt
+   81  echo {1..1000} >> myfile3.txt
+   82  cat myfile3.txt
+   83  mv myfile3.txt myfile2.txt
+   84  cat myfile2.txt
+   85  ls
+   86  cp myfile2.txt myfile.txt
+   87  cat myfile.txt
+   88  ls
+   89  cat myfile2.txt
+   90  history
+   91  history >>history,txt
+   92  cat history.txt
+   93  history >>history.txt
